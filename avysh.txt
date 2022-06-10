@@ -1,0 +1,19 @@
+#app > div > nav {
+  display: none
+}
+#app > div.v-application--wrap > main > div {
+  margin-left: -247px
+}
+
+.v-main .page-col-sd > div:nth-child(1) {
+  display: none
+}
+.v-main .page-col-sd > div:nth-child(2) {
+  display: none
+}
+.v-main .page-col-sd > div:nth-child(3) {
+  display: none
+}
+.v-main .page-col-sd > div:nth-child(4) {
+  display: none
+}
